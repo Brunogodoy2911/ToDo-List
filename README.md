@@ -37,10 +37,9 @@ As seguintes tecnologias foram empregadas na criação deste projeto:
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Async Storage](https://react-native-async-storage.github.io/async-storage/)
-- [Phosphor Icons](https://phosphoricons.com/)
-- [ESLint](https://eslint.org/)
+- [Tabler Icons](https://tabler.io/docs/icons/react-native)
 - [Expo Checkbox](https://docs.expo.dev/versions/latest/sdk/checkbox/)
-- [uuid](https://www.npmjs.com/package/react-native-uuid)
+- [Moti](https://moti.fyi/)
 
 ___
 
@@ -49,4 +48,20 @@ ___
 Clone o projeto para o local desejado em seu computador.
 
 ```bash
-$ git clone git@github.com:andreviapiana/ToDoList-RN.git
+$ git clone https://github.com/Brunogodoy2911/ToDo-List
+
+# Navegue até o diretório
+$ cd ToDoList-RN
+
+# Instale as dependências necessárias
+$ npm install
+
+# Agora inicie a aplicação - Um QR Code será exibido no Terminal
+$ npx expo start
+
+# Em seu celular, instale o aplicativo Expo Go - Ele é gratuito na Play Store.
+
+# Abra o Expo Go que acabou de instalar, e então escaneie o QR Code através do aplicativo.
+
+# A aplicação então será exibida de forma 100% funcional diretamente em seu celular.
+
