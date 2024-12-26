@@ -65,3 +65,4 @@ $ npx expo start
 
 # A aplicação então será exibida de forma 100% funcional diretamente em seu celular.
 
+Made with ❤️ by Bruno Henrique de Godoy 👋🏽 [Get in Touch!](https://www.linkedin.com/in/bruno-godoy-07806726b/)
