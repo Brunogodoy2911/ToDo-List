@@ -48,7 +48,7 @@ Clone o projeto para o local desejado em seu computador.
 $ git clone https://github.com/Brunogodoy2911/ToDo-List
 
 # Navegue até o diretório
-$ cd ToDoList-RN
+$ cd ToDo-List
 
 # Instale as dependências necessárias
 $ npm install
