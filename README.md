@@ -24,9 +24,6 @@ Imagens da aplicação são vistas na imagem abaixo:
 
 ![todolist capa](https://github.com/andreviapiana/ToDoList-RN/assets/106932234/cd0527b4-83ca-4fdf-8194-dd9816ca403e)
 
-A execução da aplicação em meu celular é vista a seguir:
-
-![todolist execution](https://github.com/andreviapiana/ToDoList-RN/assets/106932234/e9976239-1a93-47ec-bdb9-6a9163e35b14)
 
 ___
 
