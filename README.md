@@ -3,8 +3,8 @@
 </p>
 
 <p align="center" margin-top="25px">
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/andreviapiana/ToDoList-RN" />
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/andreviapiana/ToDoList-RN" />
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Brunogodoy2911/ToDo-List" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Brunogodoy2911/ToDo-List" />
 </p>
 
 ToDo List é uma aplicação para a listagem e controle de tarefas do usuário, feita em React Native para dispositivos móveis, com armazenamento local utilizando Async Storage.
@@ -62,4 +62,5 @@ $ npx expo start
 
 # A aplicação então será exibida de forma 100% funcional diretamente em seu celular.
 
+```
 Made with ❤️ by Bruno Henrique de Godoy 👋🏽 [Get in Touch!](https://www.linkedin.com/in/bruno-godoy-07806726b/)
